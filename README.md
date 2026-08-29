@@ -30,10 +30,11 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 | Foto | Nombre | Rol | Intereses |
 | :---: | :--- | :--- | :--- |
 | ![Sophia](Recursos/Imagenes/sophia.jpeg) | **Sophia Alejandra** | Líder del equipo | Innovación social, sostenibilidad |
-| ![Brandom](Recursos/Imagenes/brandom.jpeg) | **Brandom Onofre** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| ![Leonardo](Recursos/Imagenes/leo.jpeg) | **Leonardo** | Diseñador | Diseño de prototipos, creatividad aplicada |
-| ![Sebastian](Recursos/Imagenes/sebas.jpeg) | **Sebastian** | Documentación | Comunicación científica, redacción técnica |
-
+| ![Sebastian](Recursos/Imagenes/sebas.jpeg) | **Sebastian Vega** | Programador-Modelador | Programación, análisis de datos, simulación |
+| ![Leonardo](Recursos/Imagenes/leo.jpeg) | **Leonardo Vilca** | Diseñador | Diseño de prototipos, creatividad aplicada |
+| ![Sebastian](Recursos/Imagenes/sebas.jpeg) | **Sebastian Vega** | Documentación | Comunicación científica, redacción técnica |
+| ![Gabriela](Recursos/Imagenes/gaby.jpeg) | **Gabriela Ttito** | Documentación | Comunicación científica, redacción técnica |
+| ![Shamira](Recursos/Imagenes/Shamira.jpeg) | **Shamira Gutierrez** | Documentación | Comunicación científica, redacción técnica |
 ---
 
 ## Resumen Final
