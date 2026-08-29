@@ -29,12 +29,12 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 | :---: | :--- | :--- | :--- |
-| ![Sophia](Recursos/Imagenes/sophia.jpeg) | **Sophia Alejandra** | Líder del equipo | Innovación social, sostenibilidad |
+| ![Sophia](Recursos/Imagenes/sophi.jpeg) | **Sophia Alejandra** | Líder del equipo | Innovación social, sostenibilidad |
+| ![Brandon](Recursos/Imagenes/brandom.jpeg) | **Brandon Onofre** | Programador-Modelador | Programación, análisis de datos, simulación |
 | ![Sebastian](Recursos/Imagenes/sebas.jpeg) | **Sebastian Vega** | Programador-Modelador | Programación, análisis de datos, simulación |
-| ![Leonardo](Recursos/Imagenes/leo.jpeg) | **Leonardo Vilca** | Diseñador | Diseño de prototipos, creatividad aplicada |
-| ![Sebastian](Recursos/Imagenes/sebas.jpeg) | **Sebastian Vega** | Diseñador | Diseño de prototipos, creatividad aplicada |
+|![Leonardo](Recursos/Imagenes/leo.jpeg) | **Leonardo Vilca** | Diseñador | Diseño de prototipos, creatividad aplicada |
 | ![Gabriela](Recursos/Imagenes/gaby.jpeg) | **Gabriela Ttito** | Documentación | Comunicación científica, redacción técnica |
-| ![Shamira](Recursos/Imagenes/Shamira.jpeg) | **Shamira Gutierrez** | 	Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| ![Shamira](Recursos/Imagenes/shamira.jpeg) | **Shamira Gutierrez** | 	Responsable de investigación | Gestión ambiental, desarrollo comunitario |
 | ![Vania](Recursos/Imagenes/val.jpeg) | **Vania Quispe** | 	Responsable de investigación | Gestión ambiental, desarrollo comunitario |
 ---
 
