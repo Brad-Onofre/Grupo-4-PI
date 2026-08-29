@@ -36,8 +36,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 | ![Gabriela](Recursos/Imagenes/gaby.jpeg) | **Gabriela Ttito** | Documentación | Comunicación científica, redacción técnica |
 | ![Valentina](Recursos/Imagenes/val.jpeg) | **Valentina Quispe** | Documentación | Comunicación científica, redacción técnica |
 | ![Shamira](Recursos/Imagenes/shamira.jpeg) | **Shamira Gutierrez** | 	Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| ![Vania](Recursos/Imagenes/vania.jpeg) | **Vania Quispe** | 	Responsable de investigación | Gestión ambiental, desarrollo comunitario |
----
+
 
 ## Resumen Final
 
